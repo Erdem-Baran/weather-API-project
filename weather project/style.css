@@ -1,0 +1,22 @@
+.temperature{
+    color: rgb(251, 58, 24);
+    font-size: 20px;
+}
+.wind{
+    color: rgb(24, 149, 251);
+    font-size: 20px;
+}
+#card{
+    margin: 30px;
+    margin-top: 10%;
+}
+.card-title{
+    text-align: center;
+}
+.list-group{
+    align-items: center;
+}
+.input-group{
+    width: 40%;
+    margin-top: 20%;
+}
