@@ -1,6 +1,6 @@
 async function weather(input){
     try{
-    const weather_url = await fetch("http://goweather.xyz/weather/" + input);
+    const weather_url = await fetch("https://goweather.xyz/weather/" + input);
     if(!weather_url.ok)
         throw new Error ("Geçerli bir ülke giriniz.");
     const weather_data  = await weather_url.json();
