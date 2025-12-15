@@ -1,45 +1,41 @@
-# Hava Durumu Uygulaması 🌤️
+# Weather App 🌤️
 
-JavaScript ile yapılmış basit bir hava durumu ve ülke bilgisi uygulaması.
+A simple weather and country information app built with JavaScript.
 
-## 📋 Özellikler
+## 📋 Features
 
-- Ülke/şehir arama özelliği
-- Hava durumu bilgisi görüntüleme (sıcaklık ve rüzgar)
-- Ülke bayrağı gösterimi
-- Responsive tasarım (Bootstrap)
-- Hata yönetimi
+- Country/city search feature
+- Weather information display (temperature and wind)
+- Country flag display
+- Responsive design (Bootstrap)
+- Error management
 
-## 🚀 Kullanılan Teknolojiler
+## 🚀 Technologies Used
 
-- **HTML5**: Temel sayfa yapısı
-- **CSS3**: Özel stil düzenlemeleri
-- **JavaScript (ES6+)**: Ana uygulama mantığı
+- **HTML5**: Basic page structure
+- **CSS3**: Custom style adjustments
+- **JavaScript (ES6+)**: Main application logic
 - **Bootstrap 5**: UI framework
-- **Font Awesome**: İkonlar
-- **REST API'ler**:
-  - [GoWeather API](http://goweather.xyz/) - Hava durumu
-  - [REST Countries API](https://restcountries.com/) - Ülke bilgileri
+- **Font Awesome**: Icons
+- **REST APIs**:
+  - [GoWeather API](http://goweather.xyz/) - Weather
+  - [REST Countries API](https://restcountries.com/) - Country information
 
 
-## 🎯 Kullanım
+## 🎯 Usage
 
-1. Arama kutusuna bir ülke adı yazın
-2. "Ara" butonuna tıklayın
-3. Ülke bayrağı, hava durumu bilgileri görüntülenecek
-
-
-## 📚 Öğrenilen Konular
-
-Bu proje ile öğrendiğim ana konular:
-- Fetch API kullanımı
-- Async/await yapısı
-- DOM manipülasyonu
-- API entegrasyonu
-- Hata yönetimi (try-catch)
-- Bootstrap kullanımı
+1. Type a country name in the search box
+2. Click the “Search” button
+3. The country flag and weather information will be displayed
 
 
-## 📄 Lisans
+## 📚 Topics Learned
 
-Bu proje kişisel öğrenme amaçlı geliştirilmiştir.
+The main topics I learned with this project:
+- Using the Fetch API
+- Async/await structure
+- DOM manipulation
+- API integration
+- Error handling (try-catch)
+- Using Bootstrap
+
